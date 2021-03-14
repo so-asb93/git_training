@@ -1,2 +1,0 @@
-# Exercice
-* Part 1
